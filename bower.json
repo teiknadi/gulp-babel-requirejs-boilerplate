@@ -1,0 +1,26 @@
+{
+  "name": "gulp-babel-requirejs-boilerplate",
+  "version": "0.0.0",
+  "description": "Gulp Babel RequireJs Boilerplate",
+  "main": "public/index.html",
+  "moduleType": [
+    "amd",
+    "es6"
+  ],
+  "authors": [
+    "Sewer Orłow <sewer.orlow@gmail.com>"
+  ],
+  "private": false,
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.4",
+    "requirejs": "~2.1.20"
+  }
+}
