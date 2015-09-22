@@ -1,4 +1,4 @@
-# Gulp Babel RequireJs Boilerplate
+# Gulp Babel RequireJS Boilerplate
 
 The use of dependencies shown on jQuery example.
 Dependencies are managed by Bower.
